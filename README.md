@@ -37,4 +37,4 @@ Brindar una herramienta clara y visual para que el área de **Recursos Humanos**
 **Andrés Navarro**  
 [Portfolio Web](https://andres-navarro-portfolio.netlify.app/)  
 [LinkedIn](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)  
-[Gmail](andresnavarroalvarez15@gmail.com)
+✉️ andresnavarroalvarez15@gmail.com
