@@ -1,1 +1,1 @@
-# Dashboard-de-Rotaci-n-de-Personal-Farmacia-Carvajal
+Analicé la rotación de personal utilizando medidas calculadas (IF, EXCLUDE) y parámetros interactivos. Identifiqué los roles con mayor rotación (Top 5), y visualicé bajas, empleados activos y tasas de salida. Este panel ayuda a RRHH a tomar decisiones para reducir la rotación y optimizar contrataciones.
